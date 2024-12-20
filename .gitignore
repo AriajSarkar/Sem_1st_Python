@@ -1,1 +1,5 @@
+# Local Virtual Environment Directory (venv)
 .venv
+
+# Cache Directory
+__pycache__
